@@ -1,0 +1,1407 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC FHD">
+    <display-name lang="pt">AMC FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AMC FHD [H265]">
+    <display-name lang="pt">AMC FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network FHD [H265]">
+    <display-name lang="pt">Cartoon Network FHD [H265]</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Comedy Central FHD">
+    <display-name lang="pt">Comedy Central FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central FHD [H265]">
+    <display-name lang="pt">Comedy Central FHD [H265]</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">A Bela e a Fera</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">O Ataque</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Blitz</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Anjos da Lei</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Fogo Contra Fogo</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Riddick 3</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Agente do Futuro</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">A Bela e a Fera</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Um Homem de Família</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Fogo Contra Fogo</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">O Hobbit: A Desolação de Smaug</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Anjos da Noite: O Despertar</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Uma Noite de Crime</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Regressão</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">O Justiceiro: Em Zona de Guerra</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Todas as Cores da Noite</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Matador em Perigo</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Jogada de Mestre</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Anjos da Noite: O Despertar</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Anjos da Lei</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Redenção (2013)</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Voo 7500</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Robocop (2014)</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Riddick 3</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Anjos da Noite</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Assim na Terra Como no Inferno</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Planet Action</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Chloe e Theo</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">A Colônia</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Voo 7500</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Riddick 3</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Robocop (2014)</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">O Apocalipse</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Hancock</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Drive</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Assim na Terra Como no Inferno</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">6 Balas</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Pelos Caminhos do Inferno</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Fogo no Céu</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Click</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Drive</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">O Imperador</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Hancock</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Ferrugem</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">NOS4A2</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">O Apocalipse</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">6 Balas</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">A Vingança de Wyatt Earp</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Um Casal Quase Perfeito</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Par Perfeito</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Um Homem de Família</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Dívida de Honra</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Real Beleza</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">O Apocalipse</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Riddick 3</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Um Olhar do Paraíso</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Marcados para Morrer</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Linha de Frente</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Amizade Colorida</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Pegando Fogo</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Um Porto Seguro</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Amizade Colorida</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Do Lado de Fora</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Os Mercenários 3</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Bad Boys II</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Blitz</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Dívida de Honra</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Drive</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Action Zone VII</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Para Sempre</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Conta Comigo</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="AMC FHD [H265]">
+    <title lang="pt">Riddick 3</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Este é o Meu Garoto</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Fleabag</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Ana</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Homens?</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comedy Central Stand Up: Especial Thiago Ventura</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Porta no Comedy XXL</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Batalha de Lip Sync</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Idiotando</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Takeshi's Castle Thailand - O desafio do castelo</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Ugly Americans</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Ugly Americans</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Orange is The New Black</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Este é o Meu Garoto</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">República do Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comedy Central Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Click</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Porta No Comedy</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comedy Central Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Porta no Comedy XXL</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Batalha de Lip Sync</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Idiotando</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Takeshi's Castle Thailand - O desafio do castelo</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Ugly Americans</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Ugly Americans</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Orange is The New Black</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Click</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comedy Central Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">República do Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">República do Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Auto Posto</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Flack</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Flack</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Flack</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Auto Posto</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Fleabag</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Ana</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Porta No Comedy</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Schitt's Creek</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Schitt's Creek</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Porta No Comedy</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comedy Central Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Key and Peele</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Meninas Malvadas</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Porta No Comedy</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comedy Central Stand Up: Especial O Melhor do Brasil é O Brasileiro</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Pipocando: O Dobro de Manteiga</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Flack</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Flack</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Flack</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Fleabag</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Ana</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Meninas Malvadas</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Porta No Comedy</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Broad City - A Cidade Das Minas</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Broad City - A Cidade Das Minas</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Key and Peele</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">República do Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Schitt's Creek</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Fleabag</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Ana</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Porta No Comedy</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Orange is The New Black</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Schitt's Creek</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comedy Central Stand Up: Especial Música</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Pipocando: O Dobro de Manteiga</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Auto Posto</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comedy Central Stand Up: Especial Rodrigo Marques</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comedy Central Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Idiotando</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Takeshi's Castle Thailand - O desafio do castelo</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Orange is The New Black</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">República do Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Schitt's Creek</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Especial "Coisa de Preto"</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Trampo Zika</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa Não É Nossa - O Melhor do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comedy Central Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Comediantes em Casa</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Idiotando</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Takeshi's Castle Thailand - O desafio do castelo</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Orange is The New Black</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">South Park</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">República do Stand Up</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Schitt's Creek</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">The Office</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">A Culpa é do Cabral</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Os Goldbergs</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20200910000000 -0300" stop="20200910000000 -0300" channel="Comedy Central FHD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+  </programme>
+</tv>
